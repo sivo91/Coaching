@@ -169,7 +169,7 @@ export default async function Home() {
             <p>My goal now is to inspire and educate each of you by sharing the experiences and knowledge I&apos;ve gained throughout my hockey career. I can&apos;t wait to meet you all on the ice and begin your hockey journey together.</p>
 
             <div className="alert alert-warning text-center" role="alert" style={{border: '1px solid red'}}>
-              <strong>Let&apos;s ensure your son is in capable hands and guide him along the right path to success. He will be grateful in the future. 🏆 Together, let&apos;s raise a new CHAMPION!</strong>
+              <strong>I will ensure your son is in capable hands and guide him along the right path to success. He will be grateful in the future. 🏆 Together, let&apos;s raise a new CHAMPION!</strong>
             </div>
             <h2 className="text-center my-5">Peter: 707 770 6743</h2>
           </div>
