@@ -49,7 +49,7 @@ export default async function Home() {
         <div className="row d-flex justify-content-center my-3">
           <div className="col-3 col-md-1">
             <div>
-              <img src="/imgs/brondz.jpg" className="img-fluid" alt="tncup" />
+              <img src="/imgs/gold.jpg" className="img-fluid" alt="tncup" />
             </div>
           </div>
           <div className="col-3 col-md-1">
@@ -59,7 +59,7 @@ export default async function Home() {
           </div>
           <div className="col-3 col-md-1">
             <div>
-              <img src="/imgs/brondz.jpg" className="img-fluid" alt="tncup" />
+              <img src="/imgs/silver.jpg" className="img-fluid" alt="tncup" />
             </div>
           </div>
         </div>
