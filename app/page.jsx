@@ -95,7 +95,7 @@ export default async function Home() {
             <ul>
               <li>ECHL Performer of the Year (+49)</li>
               <li>ECHL First All-Star Team</li>
-              <li>Sportsmanship Award (only 10 PIM in a single season).</li>
+              <li>Sportsmanship Award (only 10 PIM in a single season {`| "`}67 games{`"`}).</li>
             </ul>
           </div>
         </div>
