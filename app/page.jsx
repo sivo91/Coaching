@@ -163,7 +163,7 @@ export default async function Home() {
               <img src="/imgs/total.jpg" className="img-fluid" alt="tncup" />
             </div>
 
-            <p>Overall, I played 1,077 professional games and accumulated 639 points. I was the top scorer on my team 4 times and finished 5 seasons with the most points among my teammates. In my last year in the ECHL, I also served as a player-assistant coach in Tulsa Oilers.</p>
+            <p>Overall, I played 1,077 professional games and accumulated 639 points. I was the top scorer on my team 5 times and finished 5 seasons with the most points among my teammates. In my last year in the ECHL, I also served as a player-assistant coach in Tulsa Oilers.</p>
 
             <p>Despite many successes, a shoulder injury ended my active hockey career in the 2018/2019 season. This turning point led me to invest in academia, studying information technology with a focus on Full-Stack Web Development.</p>
 
